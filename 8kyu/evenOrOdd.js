@@ -3,6 +3,7 @@ const even_or_odd = (int) => {
     return 'Even'
   }
   return 'Odd'
+  
 }
 
 /* Alternative Solutions:
